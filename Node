@@ -20,7 +20,7 @@ public class Node implements Serializable {  // Directed graph
                     numberOfMutualConnections++;
                     System.out.println(example.nodeName + " has the mutual link with " + graph1.nodeName);}
             }
- /*"example" has number of nodes he is linked to.
+ /*"example" has number of nodes it is linked to.
  We go through all of them.
  If one of them has the link to our original node ("example") we print message and increase count (numberOfMutualConnections) by 1.*/
         }
