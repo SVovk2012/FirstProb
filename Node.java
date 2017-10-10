@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /* 
-Знакомство с графами
+Inro to graphs (discrete mathematics)
 */
 public class Node implements Serializable {  // Directed graph
     int nodeName; // Here is the number (name) of the graph
