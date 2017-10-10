@@ -1,4 +1,3 @@
-package com.javarush.task.task22.task2209;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
