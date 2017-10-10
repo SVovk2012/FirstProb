@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.Iterator;
 
 /*
-Make the chain of words
+The program creates the chain of words. Each word starts with the last letter of the previous word.
 */
 public class Solution {
     public static void main(String[] args) throws IOException {
